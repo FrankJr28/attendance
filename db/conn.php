@@ -1,9 +1,9 @@
 <?php
 
-    $host='localhost';
-    $db = 'attendance_db';
-    $user = 'root';
-    $pass = '';
+    $host='sql9.freesqldatabase.com';
+    $db = 'sql9549925';
+    $user = 'sql9549925';
+    $pass = 'gkTPWF5A5B';
     $charset = 'utf8mb4';
 
     $dsn = "mysql:host=$host;dbname=$db;charset=$charset";
